@@ -1,0 +1,33 @@
+{
+  "investors": [
+    {
+      "name": "John",
+      "capital": 15000,
+      "stocks": [
+        {
+          "symbol": "NTAP",
+          "quantity": 313
+        },
+        {
+          "symbol": "AAPL",
+          "quantity": 27
+        }
+      ]
+    },
+    {
+      "name": "Megan",
+      "capital": 30000,
+      "stocks": []
+    },
+    {
+      "name": "Dave",
+      "capital": 100,
+      "stocks": [
+        {
+          "symbol": "GOOG",
+          "quantity": 56
+        }
+      ]
+    }
+  ]
+}

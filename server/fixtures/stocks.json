@@ -1,0 +1,17 @@
+[
+  {
+    "symbol": "NTAP",
+    "company": "NetApp Inc",
+    "price": 71.24
+  },
+  {
+    "symbol": "GOOG",
+    "company": "Alphabet Inc",
+    "price": 829.08
+  },
+  {
+    "symbol": "AAPL",
+    "company": "Apple Inc",
+    "price": 139.78
+  }
+]
